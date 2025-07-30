@@ -80,9 +80,6 @@ sequenceDiagram
 
 ---
 
-Would you like me to generate this diagram as a PNG or integrate it into your documentation scaffold?
-
-
 
 Based on your PRD for the **MT5 to Match-Trader Trade Copier**, here’s a proposed **supported API specification** and a **database schema** that aligns with your requirements.
 
@@ -277,4 +274,3 @@ Match-Trader uses **WebSocket API** for trade execution and management.
 
 ---
 
-Would you like me to scaffold the folder structure and Python modules for this trade copier as well?
