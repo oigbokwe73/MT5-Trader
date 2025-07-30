@@ -1,6 +1,6 @@
 # MT5-Trader
 
-Here’s a detailed **Mermaid sequence diagram** that illustrates the end-to-end flow for the **MT5 to Match-Trader Trade Copier** process.
+Here’s a detailed **diagram** that illustrates the end-to-end flow for the **MT5 to Match-Trader Trade Copier** process.
 
 This includes:
 
