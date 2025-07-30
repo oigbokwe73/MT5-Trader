@@ -87,20 +87,8 @@ Based on your PRD for the **MT5 to Match-Trader Trade Copier**, here’s a propo
 
 ## ✅ API Support Specification
 
-### 1. **MT5 API Integration**
 
-MT5 will be accessed using the [MetaTrader5 Python package](https://pypi.org/project/MetaTrader5/), which communicates with the locally running terminal.
-
-**Core Functions Used:**
-
-* `MT5.initialize()`
-* `MT5.positions_get()`
-* `MT5.orders_get()`
-* `MT5.copy_rates_from()`
-* `MT5.order_send()`
-* `MT5.shutdown()`
-
-### 2. **Match-Trader API Integration**
+### 1. **Match-Trader API Integration**
 
 Match-Trader uses **WebSocket API** for trade execution and management.
 
